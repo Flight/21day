@@ -1,0 +1,4 @@
+.b-main-grey {background: #f7f7f7 url(../img/main-grey-bg.png) repeat-y 50% 0;}
+.b-main-grey {padding-bottom: 20px; margin-bottom: 50px;}
+input[type="text"] {padding-top: 14px; height: 32px;}
+.b-start {background: #d4e7f2;
